@@ -1,0 +1,16 @@
+{
+    "name": "mini-jsonplaceholder",
+    "version": "1.0.0",
+    "description": "La nostra versione di JSONPlaceholder — Esercizio Lezione 4",
+    "type": "module",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "node --watch server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.6",
+        "dotenv": "^17.4.2",
+        "express": "^4.21.0",
+        "mysql2": "^3.22.0"
+    }
+}

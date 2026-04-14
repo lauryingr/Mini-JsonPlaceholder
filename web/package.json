@@ -1,0 +1,12 @@
+{
+    "name": "mini-jsonplaceholder-web",
+    "version": "1.0.0",
+    "description": "Frontend del Mini JSONPlaceholder",
+    "private": true,
+    "scripts": {
+        "dev": "serve -l 8080"
+    },
+    "devDependencies": {
+        "serve": "^14.2.0"
+    }
+}
